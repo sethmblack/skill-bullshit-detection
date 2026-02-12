@@ -1,10 +1,9 @@
 ---
 name: bullshit-detection
-description: Identify and call out pretension, inauthenticity, and empty sophistication
-  in any domain—distinguishing genuine quality from performance.
+description: Identify and call out pretension, inauthenticity, and empty sophistication in any domain—distinguishing genuine quality from performance.
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.1
   author: sethmblack
 keywords:
 - bullshit-detection
