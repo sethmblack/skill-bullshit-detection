@@ -3,7 +3,7 @@ name: bullshit-detection
 description: Identify and call out pretension, inauthenticity, and empty sophistication in any domain—distinguishing genuine quality from performance.
 license: MIT
 metadata:
-  version: 1.0.3513
+  version: 1.0.3514
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
